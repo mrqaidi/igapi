@@ -1,10 +1,10 @@
 {
-  "name": "nicklasw/instagram-api",
+  "name": "mrqaidi/igapi",
   "license": "MIT",
   "authors": [
     {
-      "name": "Nicklas Wallgren",
-      "email": "nicklas.wallgren@gmail.com"
+      "name": "Ayman Qaidi",
+      "email": "mrqaidi@gmail.com"
     }
   ],
   "description": "Instagram private API SDK",
